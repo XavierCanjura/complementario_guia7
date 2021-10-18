@@ -2,8 +2,8 @@ import React from 'react';
 import GatosStack from './GatosStack';
 import PerrosStack from './PerrosStack';
 import Icon from 'react-native-vector-icons/FontAwesome5';
-
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
+
 const Tab = createBottomTabNavigator();
 export default function Navigation() {
   return (

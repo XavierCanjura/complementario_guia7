@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 import { View, Text, Image, Alert, Modal, StyleSheet, Pressable } from 'react-native';
 import {Card, ListItem, Button, Icon, Avatar} from 'react-native-elements';
 
